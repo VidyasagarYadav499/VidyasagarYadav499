@@ -50,16 +50,23 @@ A CS student and a neophyte Developer 👨‍💻 in the making! Diving deep int
 
 </p>
 
-## 📈 GitHub Statistics
+<details>
+  <summary>📈 Stats for Nerds</summary>
 
-![Vidyasagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VidyasagarYadav499&theme=redical)
+  <!-- <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=VidyasagarYadav499&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats"> -->
 
-![](https://github-readme-stats.vercel.app/api?username=VidyasagarYadav499&show_icons=true&theme=radical)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VidyasagarYadav499&theme=redical" alt="GitHub Activity Graph">
+  
+  <!-- <h4>GitHub Stats</h4> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VidyasagarYadav499&show_icons=true&theme=radical" alt="GitHub Stats">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VidyasagarYadav499&theme=radical&hide_border=false&show_icons=true)
+  <!-- <h4>GitHub Streak Stats</h4> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidyasagarYadav499&theme=radical&hide_border=false&show_icons=true" alt="GitHub Streak Stats">
 
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=VidyasagarYadav499&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true)-->
+  <!-- <h4>Top Languages</h4> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidyasagarYadav499&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true" alt="Top Languages">
 
-<hr>
+  [![](https://visitcount.itsvg.in/api?id=VidyasagarYadav499&icon=0&color=1)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=VidyasagarYadav499&icon=0&color=1)](https://visitcount.itsvg.in)
+  
+</details>
