@@ -1,3 +1,5 @@
+[![An image of @vidyasagar4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidyasagar4)](https://holopin.io/@vidyasagar4)
+
 ## Hi there 👋, I am Vidyasagar!
 
 A CS student and a neophyte Developer 👨‍💻 in the making! Diving deep into Java and exploring the world of open source.
