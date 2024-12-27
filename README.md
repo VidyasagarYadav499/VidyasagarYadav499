@@ -1,14 +1,15 @@
-[![An image of @vidyasagar4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidyasagar4)](https://holopin.io/@vidyasagar4)
+<!-- [![An image of @vidyasagar4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidyasagar4)](https://holopin.io/@vidyasagar4) -->
 
 ## Hi there 👋, I am Vidyasagar!
 
 A CS student and a neophyte Developer 👨‍💻 in the making! Diving deep into Java and exploring the world of open source.
 
 - 🔭 Currently working on:
-  - **NetUsageTerminator**: A Java tool to monitor and terminate processes based on network usage.
+  - **Chronos**: A journaling application to capture and reflect on life's moments.
+  <!--- **NetUsageTerminator**: A Java tool to monitor and terminate processes based on network usage.
   - **Tetris**: Creating a Tetris game using Raylib and C++.
-  <!--- **DataStructVisualizer**: A 3D data structure visualization website. -->
-- 🌱 Learning about Parallel Programming, Data Science and Web Development.
+  -**DataStructVisualizer**: A 3D data structure visualization website. -->
+- 🌱 Learning about Web Development with the Spring Framework.
 - ⚡ Fun fact: I'm addicted to solving daily LeetCode problems and tweaking my config scripts!
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
